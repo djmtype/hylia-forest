@@ -17,4 +17,3 @@ fields:
   label: tags
 pages:
 - src/posts/random-thing.md
-- src/posts/test-post.md
