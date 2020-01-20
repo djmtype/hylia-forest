@@ -5,4 +5,4 @@ tags:
 - blog
 
 ---
-This is just some ~random~ funny post
+This is just some \~random\~ funny post. What a laugh!
