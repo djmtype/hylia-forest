@@ -6,3 +6,5 @@ tags:
 
 ---
 This is just some \~random\~ funny post. What a laugh!
+
+![](/images/demo-image-2.jpg)
