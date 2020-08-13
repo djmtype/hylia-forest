@@ -9,4 +9,4 @@ fields:
   type: text
   config:
     required: true
-  label: Permalink
+  label: permalink
