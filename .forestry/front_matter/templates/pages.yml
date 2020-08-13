@@ -10,3 +10,11 @@ fields:
   config:
     required: true
   label: permalink
+- name: page_sections
+  type: blocks
+  label: Page Sections
+  template_types:
+  - highlights
+  config:
+    min: 
+    max: 
