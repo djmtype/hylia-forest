@@ -19,7 +19,7 @@ sections:
   create: documents
   match: "*.md"
   templates:
-  - page
+  - pages
 - type: heading
   label: Globals
 - type: document
