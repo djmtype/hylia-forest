@@ -16,7 +16,6 @@ page_sections:
     url: https://example.com
 
 ---
-
 **2017 – GSTL RULES COMBO DOUBLES**
 
 **18 & Over, 40 & Over, 55 & Over, 65 & Over**
@@ -90,7 +89,6 @@ CAPTAINS ARE RESPONSIBLE FOR KNOWING ALL THE USTA, SOUTHERN, SOUTH CAROLINA, AND
 
 ## **NTRP Cap for Combined Levels:**
 
-| --- | --- | --- | --- | --- |
 | NTRPLevel | Max NTRPRating |  | NTRPLevel | Max NTRPRating |
 | 5.5 | 3.0 |  | 8.5 | 5.0 |
 | 6.5 | 3.5 |  | 9.5 | 5.5 |
