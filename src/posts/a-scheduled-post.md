@@ -1,6 +1,6 @@
 ---
 title: A scheduled post
-date: 2022-06-18
+date: 2021-03-24
 tags:
 - simple-post
 - blog
